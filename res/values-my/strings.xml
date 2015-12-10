@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ရေခဲသေတ္တာအခန်း</string>
+    <string name="dummy_content">ရေခဲသေတ္တာအခန်း</string>
+    <string name="add_app">ပလီကေးရှင်းကို select တစ်ခု</string>
+    <string name="no_app">သင်က application ကိုမတွေ့ရှိခဲ့ပါတယ်အေးခဲနိုင်ပါ</string>
+     <string name="select_app">အနညျးဆုံးတစျပလီကေးရှင်းကို select ကျေးဇူးပြု.</string>
+</resources>

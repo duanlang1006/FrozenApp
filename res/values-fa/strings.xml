@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">محفظه یخچال و فریزر</string>
+    <string name="dummy_content">محفظه یخچال و فریزر</string>
+    <string name="add_app">انتخاب یک برنامه</string>
+    <string name="no_app">شما می توانید برنامه را مسدود یافت نشد</string>
+    <string name="select_app">لطفا حداقل یک برنامه را انتخاب کنید</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pendingin</string>
+    <string name="dummy_content">pendingin</string>
+    <string name="add_app">Pilih aplikasi</string>
+    <string name="no_app">Anda dapat membekukan aplikasi tidak ditemukan</string>
+     <string name="select_app">Pilih setidaknya satu aplikasi</string>
+</resources>

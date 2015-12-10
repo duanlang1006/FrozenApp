@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tủ lạnh ngăn</string>
+    <string name="dummy_content">tủ lạnh ngăn</string>
+    <string name="add_app">Chọn một ứng dụng</string>
+    <string name="no_app">Bạn có thể đóng băng các ứng dụng không được tìm thấy</string>
+     <string name="select_app">Vui lòng chọn ít nhất một ứng dụng</string>
+</resources>

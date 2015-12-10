@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kühlfach</string>
+    <string name="dummy_content">Kühlfach</string>
+    <string name="add_app">Wählen Sie eine Anwendung</string>
+    <string name="no_app">Sie können die Anwendung einfrieren konnte nicht gefunden werden</string>
+    <string name="select_app">Bitte wählen Sie mindestens eine Anwendung</string>
+</resources>

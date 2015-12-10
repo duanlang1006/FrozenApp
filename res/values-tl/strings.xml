@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">refrigerator</string>
+    <string name="dummy_content">refrigerator</string>
+    <string name="add_app">Pumili ng aplikasyon</string>
+    <string name="no_app">Hindi ka maaaring mag-freeze ang application ay natagpuan</string>
+     <string name="select_app">Mangyaring pumili ng hindi bababa sa isang application</string>
+</resources>

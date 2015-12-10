@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vano frigorifero</string>
+    <string name="dummy_content">vano frigorifero</string>
+    <string name="add_app">Selezionare un\'applicazione</string>
+    <string name="no_app">Non si può congelare l\'applicazione è stata trovata</string>
+     <string name="select_app">Seleziona almeno una domanda</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">petak Peti sejuk</string>
+    <string name="dummy_content">petak Peti sejuk</string>
+    <string name="add_app">Pilih aplikasi</string>
+    <string name="no_app">Anda boleh membekukan permohonan itu tidak dijumpai</string>
+     <string name="select_app">Sila pilih sekurang-kurangnya satu permohonan</string>
+</resources>

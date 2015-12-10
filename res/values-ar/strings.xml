@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ثلاجة مقصورة</string>
+    <string name="dummy_content">ثلاجة مقصورة</string>
+    <string name="add_app">حدد تطبيق</string>
+    <string name="no_app">يمكنك تجميد تطبيق لم يتم العثور على</string>
+    <string name="select_app">يرجى تحديد تطبيق واحد على الأقل</string>
+    
+</resources>

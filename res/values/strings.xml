@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FrozenApp</string>
+    <string name="dummy_content">FrozenApp</string>
+    <string name="add_app">Choose a application</string>
+    <string name="no_app">No application can select</string>
+    <string name="select_app">Please select at least one application.</string>
+</resources>

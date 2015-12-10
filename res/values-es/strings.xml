@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">compartimento frigorífico</string>
+    <string name="dummy_content">compartimento frigorífico</string>
+    <string name="add_app">Seleccione una aplicación</string>
+    <string name="no_app">Usted puede congelar la aplicación no se ha encontrado</string>
+    <string name="select_app">Por favor, seleccione al menos una aplicación</string>
+</resources>

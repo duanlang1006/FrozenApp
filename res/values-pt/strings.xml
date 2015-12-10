@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">frigorífico</string>
+    <string name="dummy_content">frigorífico</string>
+    <string name="add_app">Selecione uma aplicação</string>
+    <string name="no_app">Você pode congelar o pedido não foi encontrado</string>
+     <string name="select_app">Por favor, selecione pelo menos um aplicativo</string>
+</resources>

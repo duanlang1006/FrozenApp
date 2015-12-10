@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">रेफ्रिजरेटर डिब्बे</string>
+    <string name="dummy_content">रेफ्रिजरेटर डिब्बे</string>
+    <string name="add_app">एक आवेदन पत्र का चयन करें</string>
+    <string name="no_app">आप आवेदन जमा कर सकते हैं नहीं मिला था</string>
+    <string name="select_app">कम से कम एक आवेदन का चयन करें</string>
+
+</resources>

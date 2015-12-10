@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">冷藏室</string>
+    <string name="dummy_content">冷藏室</string>
+    <string name="add_app">選擇一個應用程序</string>
+    <string name="no_app">未找到可以凍結的應用</string>
+    <string name="select_app">請選擇至少一個應用</string>
+</resources>
